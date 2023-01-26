@@ -10,4 +10,8 @@ class PostController extends Controller
         // test
         return '';
     }
+
+    public function methodTest2(){
+        return '';
+    }
 }
