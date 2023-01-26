@@ -11,7 +11,7 @@ class PostController extends Controller
         return '';
     }
 
-    public function methodTest2(){
+    public function methodTest(){
         return '';
     }
 }
