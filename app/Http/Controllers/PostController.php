@@ -9,5 +9,5 @@ class PostController extends Controller
     public function __invoke()
     {
         return 'develop vs code';
-     }
+    }
 }
