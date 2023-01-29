@@ -8,6 +8,7 @@ class SshTestController extends Controller
 {
     public function sshFromGitLaravel2()
     {
-        return '';
+        $test = 123;
+        return '777';
     }
 }
