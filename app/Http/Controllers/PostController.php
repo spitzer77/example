@@ -6,12 +6,8 @@ use Illuminate\Http\Request;
 
 class PostController extends Controller
 {
-    public function methodPost(){
-        // test
-        return '';
-    }
-
-    public function methodTest(){
-        return '';
-    }
+    public function __invoke()
+    {
+        return 'develop';
+     }
 }
