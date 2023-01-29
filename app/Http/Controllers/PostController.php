@@ -8,6 +8,6 @@ class PostController extends Controller
 {
     public function __invoke()
     {
-        return 'develop vs code 777';
+        return 'develop';
     }
 }
