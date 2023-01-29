@@ -8,6 +8,7 @@ class SshController extends Controller
 {
     public function sshFromGitLaravel2()
     {
-        return '';
+
+        return '1005ha develop';
     }
 }
